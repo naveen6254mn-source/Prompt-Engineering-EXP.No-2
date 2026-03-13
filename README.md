@@ -22,6 +22,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+
 The Basics of Blockchain Technology: A Beginner’s Guide
 Blockchain technology is often mentioned in the same breath as cryptocurrencies, but its potential extends far beyond digital money. At its core, blockchain is a revolutionary way of storing and sharing information securely, transparently, and without the need for a central authority.
 What is a Blockchain?
@@ -156,5 +157,5 @@ Blockchain is a secure, decentralized system for recording and sharing informati
 
 RESULT:
 
-![Uploading Screenshot 2026-03-12 212140.png…]()
+
 
